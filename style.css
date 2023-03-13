@@ -1,0 +1,81 @@
+.bg-black
+{
+    background-color: black;
+}
+
+
+
+
+.container
+{
+    width: 100%;
+}
+
+form
+{
+    margin-right: 5.25rem;
+}
+
+ul .nav
+{
+    color: grey;
+}
+
+i
+{
+   font-size: 2.0rem;
+  /* border: 2px solid ; */
+  /* border-radius: 50%; */
+  /* margin-left: 2.0rem; */
+}
+
+i:hover
+{
+    transform:scale(1.1) ;
+    transition: all 0.3s ease-in-out;
+}
+
+.icons
+{
+    display: flex;
+    /* padding: 0.25rem; */
+    margin: 0.2rem;
+    
+}
+.cards
+{
+    display: flex;
+    justify-content: center ;
+}
+
+
+.icons h4
+{
+    color: whitesmoke;
+}
+.row i
+{
+    color: red;
+}
+.row p
+{
+    color: blue;
+}
+
+
+.section{
+    background-color: black;
+}
+.para{
+    font-size: 14px;
+}
+
+.custom-1{
+    
+    background-image: url("./images/pexels-tirachard-kumtanom-733856.jpg");
+    background-size:cover;
+}
+.custom-3{
+    background-image : url("./images/pexels-isaac-taylor-1557251.jpg");
+    background-size:cover;
+}
